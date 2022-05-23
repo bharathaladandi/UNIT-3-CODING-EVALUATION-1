@@ -1,0 +1,29 @@
+#Product_data{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+#type{
+    height: 30px;
+}
+
+#desc{
+
+height: 30px;
+}
+
+
+#price{
+height: 30px;
+}
+
+
+#image{
+
+height: 30px;
+}
